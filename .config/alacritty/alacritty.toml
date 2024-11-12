@@ -1,0 +1,9 @@
+[font]
+normal = { family = "Fira Mono for Powerline", style = "Regular" }
+size = 10
+
+[window]
+  dynamic_padding = true
+
+[env]
+  WINIT_X11_SCALE_FACTOR = "1.0"
